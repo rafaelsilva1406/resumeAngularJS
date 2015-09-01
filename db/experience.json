@@ -1,0 +1,58 @@
+{
+	"data":
+	[
+		{
+			"title":"Web/Mobile Application Developer, Mission Produce Inc.",
+			"year":"2013 - 2015",
+			"list":[
+				"New Internal ERP Architecture",
+				"Develop Backend Business logic with MVC/Rest Service implementation",
+				"Develop Frontend with Responsive UI/Ajax implementation",
+				"Develop Native Mobile with MVVM Implementation",
+				"Wireframe Web/Mobile Design",
+				"UML Diagram Design",
+				"Test Driven Development",
+				"Program Analyst",
+				"Third-Party System Integration"
+			]
+		},
+		{
+			"title":"Web/Mobile Application Developer,  Giantpartners",
+			"year":"2012 - 2013",
+			"list":[
+				"PSD Templates converted CMS theme Templates",
+				"Work with designers and content writers",
+				"Created interactive demos for website or other deliverables",
+				"Meet with clients to gather requirements, design sites, and outline schedules",
+				"Develop custom plugins or modules for CMS",
+				"Specialized Lead Generation, and Blog websites",
+				"New Internal ERP system Frontend Developer ",
+				"LAMP Administrator"
+			]
+		},
+		{
+			"title":"Web Application Developer,  Nevosolutions",
+			"year":"2011 - 2012",
+			"list":[
+				"PSD Templates converted CMS theme Templates",
+				"Implement Client Content/Resources to existing or new sites",
+				"Hosting Account Administrator",
+				"Web Application Migration Expertise",
+				"Website planning and architecture",
+				"Specialized in ecommerce websites"
+			]
+		},
+		{
+			"title":"Game Developer(Cross Platform),  A Maniacal Game",
+			"year":"2010 - 2011",
+			"list":[
+				"Create and Update flow chart as project grew",
+				"3D/2D animation",
+				"Cross Platform Architecture",
+				"Documentation Design ",
+				"Coded custom game engine from scratch",
+				"Test Driven Development"
+			]
+		}
+	]
+}

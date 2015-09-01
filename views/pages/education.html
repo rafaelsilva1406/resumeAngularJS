@@ -1,0 +1,14 @@
+<div ng-include src="'views/partials/user.html'"></div>
+<div ng-include src="'views/partials/menu.html'"></div>
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<blockquote ng-repeat="item in education track by $index">
+					<p>{{item.name}}</p>
+					<footer>{{item.title}} <em>{{item.year}}</em></footer>
+				</blockquote>
+			</div>
+		</div>
+	</div>
+</div>

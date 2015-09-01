@@ -1,0 +1,19 @@
+{
+	"data":
+	{
+		"firstName":"Rafael",
+		"lastName":"Silva",
+		"phone":" (805) 236-3429",
+		"email":"rafaelsilva1406@gmail.com",
+		"userImage":"img/img_8_5_15.png",
+		"occupation":"Web/Mobile Developer",
+		"social":[
+			{
+				"name":"linkedin",
+				"url":"https://www.linkedin.com/profile/view?id=AAMAABAd24kBnjj7z4baOqxt9FoiD7fTsUuiV-o&trk=hp-identity-photo",
+				"img":"img/linkedin.png"
+			}
+		],
+		"summaryDetails":"A passionate self-motivated, organized, and able to work under pressure with tight schedule. My strong software background grew to various fields always looking forward for new projects to take part of and learn new things. Able to work with others absorb new ideas clarify comments. Also well known for creative graphical design ideas."
+	}
+}

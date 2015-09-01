@@ -1,0 +1,14 @@
+<div ng-include src="'views/partials/user.html'"></div>
+<div ng-include src="'views/partials/menu.html'"></div>
+<div class="row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+		<div class="panel panel-default"  ng-repeat="item in experience track by $index">
+			<div class="panel-heading">{{item.title}} <span class="label label-default">{{item.year}}</span></div>
+			<div class="panel-body">
+				<ul class="list-group" ng-repeat="i in item.list">
+				  <li class="list-group-item">{{i}}</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>

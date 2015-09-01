@@ -1,0 +1,18 @@
+<div class="jumbotron" >
+	<div class="row">
+		<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+			<img src="{{userImage}}" alt="userImage" class="img-circle img-responsive">
+			<h5><span class="glyphicon glyphicon-phone" aria-hidden="true"></span><abbr title="Phone">Phone:{{phone}}</abbr></h5>
+			<h5><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span><a href="mailto:{{email}}">{{email}}</a></h5>
+			<div data-ng-repeat="item in social track by $index">
+				<a href="{{item.url}}"><img src="{{item.img}}" class="img-thumbnail img-responsive" alt="{{item.name}}"></a>
+			</div>
+		</div>
+		<div class="col-xs-6 col-sm-6 col-md-9 col-lg-9">
+			<div class="page-header">
+				<h1><small>Summary</small><span class="pull-right">{{fullName}}<br>{{occupation}}</span></h1>
+			</div>
+			<p>{{summaryDetails}}</p>
+		</div>
+	</div>
+</div>
